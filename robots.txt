@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otoroah.github.io/sitemap.html.gz
+Sitemap: https://otoroah.github.io/app/sitemap.html.gz
+Sitemap: https://otoroah.github.io/assets/sitemap.html.gz
+Sitemap: https://otoroah.github.io/css/sitemap.html.gz
+Sitemap: https://otoroah.github.io/includes/sitemap.html.gz
+Sitemap: https://otoroah.github.io/item/sitemap.html.gz
+Sitemap: https://otoroah.github.io/src/sitemap.html.gz
